@@ -15,7 +15,7 @@
 .header{
     
     min-height: 100vh;
-    background-image: linear-gradient(#1c1c1c5d,#1c1c1c),url('D:/COding/TASK1/Resource/img/fresh-coffee-steams-wooden-table-close-up-generative-ai.jpg');
+    background-image: linear-gradient(#1c1c1c5d,#1c1c1c),url('../img/fresh-coffee-steams-wooden-table-close-up-generative-ai.jpg');
     background-position: center;
     background-size:cover;
     background-repeat: no-repeat;
@@ -24,17 +24,18 @@
 .card1{
     background-color:#1c1c1c5e
 }
-.gallery{
-    min-height: 100vh;
-}
+
 .about_us{
     height: 100vh;
-    background-image: linear-gradient(rgba(28,28,28,.70),rgba(28,28,28,.70)), url('D:/COding/TASK1/Resource/img/nafinia-putra-Kwdp-0pok-I-unsplash.jpg');
+    background-image: linear-gradient(rgba(28,28,28,.70),rgba(28,28,28,.70)), url('../img/nafinia-putra-Kwdp-0pok-I-unsplash.jpg');
     background-position: center;
     background-size:cover;
     background-repeat: no-repeat;
+    padding-bottom: 10vh;
 }
 .footer{
-    min-height: 5vh;
+    min-height: 3.5vh;
     background-color: #1c1c1c;
+    
+    
 }
